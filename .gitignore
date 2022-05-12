@@ -1,0 +1,7 @@
+.build
+.mbed
+projectfiles
+*.py*
+BUILD
+HC_SR04_Ultrasonic_Library
+mbed-os
